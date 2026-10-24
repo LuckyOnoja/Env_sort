@@ -1,0 +1,1 @@
+Automate a security configuration audit by scanning an application environment file, validating missing or exposed secret keys, and generating a structured terminal audit report.
